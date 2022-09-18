@@ -1,2 +1,3 @@
 # Parallax
- Parallax simples
+ 
+ Parallax simples criado com HTML e CSS.
